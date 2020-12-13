@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "682611854703",
+    "firebase_url": "https://wax-1-af7aa.firebaseio.com",
+    "project_id": "wax-1-af7aa",
+    "storage_bucket": "wax-1-af7aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:682611854703:android:80f99725afaa531324ec9a",
+        "android_client_info": {
+          "package_name": "com.example.geratefluttergooglesheet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "682611854703-oubv7ns82pji89mhccm64vkvmppole4v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPMDOns5F4p3ljl4ssTlOs0ybDLDAna-s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "682611854703-oubv7ns82pji89mhccm64vkvmppole4v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:682611854703:android:6738f3d93dacc61824ec9a",
+        "android_client_info": {
+          "package_name": "com.example.test_pro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "682611854703-oubv7ns82pji89mhccm64vkvmppole4v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPMDOns5F4p3ljl4ssTlOs0ybDLDAna-s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "682611854703-oubv7ns82pji89mhccm64vkvmppole4v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:682611854703:android:29d7eed0489b10a424ec9a",
+        "android_client_info": {
+          "package_name": "com.example.wax_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "682611854703-oubv7ns82pji89mhccm64vkvmppole4v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPMDOns5F4p3ljl4ssTlOs0ybDLDAna-s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "682611854703-oubv7ns82pji89mhccm64vkvmppole4v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
